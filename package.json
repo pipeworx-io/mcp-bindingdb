@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bindingdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BindingDB — measured protein/small-molecule binding affinities.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bdd8c6401897130d443ddaecd7901de0f0648d5f665c9cd04a46086185248b5e",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-6a44f4f4ce11fbd29dda8307104dfd4cb4195ab116e2f7e517321f455639a313",
+    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
   }
 }

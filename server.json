@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/bindingdb",
   "title": "Bindingdb",
   "description": "BindingDB — measured protein/small-molecule binding affinities.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/bindingdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-bindingdb",
