@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bindingdb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "BindingDB — measured protein/small-molecule binding affinities.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bindingdb",
     "gatewaySlug": "bindingdb",
-    "sourceHash": "v1-317a8d5ab53fea1a8543717d722c8c9017579bb68fdb0afd9efba6ab2c524ea2",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-0489a64b1ff96acc89c4844963b896402ba5ffe084106e95d9adda9d8c88a2d0",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
